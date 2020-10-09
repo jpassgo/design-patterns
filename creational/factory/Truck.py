@@ -16,7 +16,7 @@ class Truck(Vehicle):
         pass
 
     def turn(self, direction):
-        pass 
+        pass
 
     def open_truck_bed(self, direction):
         pass
@@ -26,5 +26,3 @@ class Truck(Vehicle):
 
     def engage_four_wheel_drive(self):
         pass
-
-    

@@ -16,9 +16,7 @@ class Sedan(Vehicle):
         pass
 
     def turn(self, direction):
-        pass 
+        pass
 
     def open_trunk(self, direction):
         pass
-
-
