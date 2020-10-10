@@ -1,6 +1,4 @@
-from __future__ import annotations
-from abc import ABC, abstractmethod, abstractproperty, ABCMeta
-from typing import Any
+from abc import abstractmethod, ABCMeta
 
 
 class Vehicle(metaclass=ABCMeta):
