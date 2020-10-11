@@ -10,4 +10,3 @@ driver = Driver()
 
 driver.accelerate(car)
 driver.accelerate(MotorcycleDriverAdapter(motorcycle))
-
