@@ -1,4 +1,3 @@
-
 class Motorcycle:
 
     def apply_throttle(self):
